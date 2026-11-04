@@ -93,3 +93,9 @@ draft: true
 可使用 MCP prompt `translate_article`（参数 `slug`）驱动第 2–5 步。`translation_status` 列出待翻译文章。译文保存在 `content/translations/<slug>.json`，可以审阅和修正。原文的标题、摘要、标签或正文变化会使旧译文失效；构建遇到缺失或过期译文会中止，要求 AI 补齐后再发布。草稿可以在译文尚未完成时保存，不进入公开构建。
 
 这不包含公开访客上传入口；“上传”指向 AI 客户端提供文档，由 AI 经 MCP 导入和翻译。站点运行时不保存任何模型密钥。
+
+## 远程 MCP（无需下载仓库）
+
+已提供 Cloudflare Workers 版本，地址为 `https://hcai-blog-mcp.2909110833.workers.dev/mcp`，使用标准 Streamable HTTP 和独立 Bearer Token。客户端 AI 生成五语内容，远程服务将原文与四种译文一次性提交到 GitHub，并触发 Pages 部署。
+
+完整配置、工具与部署说明见 [remote-mcp/README.md](remote-mcp/README.md)。已配置的用户可用“读取博客文章”“将文档翻译为五语并保存草稿”“发布此文章并检查部署状态”等指令。只支持可设置 Authorization 请求头的远程 MCP 客户端；暂不提供 OAuth 登录。请勿将 GitHub Token 作为 MCP 客户端密钥。

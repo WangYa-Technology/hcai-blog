@@ -1,0 +1,12 @@
+.cloudflare/
+remote-mcp/dist/
+remote-mcp/.dev.vars
+.env
+.env.*
+!.env.example
+*.secret.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "hcai-blog": {
+      "url": "https://hcai-blog-mcp.2909110833.workers.dev/mcp",
+      "headers": {
+        "Authorization": "Bearer <MCP_ACCESS_TOKEN>"
+      }
+    }
+  }
+}

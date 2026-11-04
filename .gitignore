@@ -1,3 +1,10 @@
 node_modules/
 dist/
 .DS_Store
+.cloudflare/
+.wrangler/
+.dev.vars*
+.env
+.env.*
+*.secret.json
+preview-build/

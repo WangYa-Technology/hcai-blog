@@ -1,0 +1,25 @@
+name: Check remote MCP
+on:
+  push:
+    branches: [main]
+    paths: ['remote-mcp/**', '.github/workflows/remote-mcp.yml']
+  pull_request:
+    paths: ['remote-mcp/**', '.github/workflows/remote-mcp.yml']
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: remote-mcp
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: remote-mcp/package-lock.json
+      - run: npm ci
+      - run: npm run build
+      - run: npm test
