@@ -1,13 +1,16 @@
 ---
-title: 把 AI 从聊天窗口，带进你的日常工作流
-description: 从一个具体任务开始，建立可复用、可检查、可持续改进的 AI 工作方式。
-category: tutorial
-date: '2026-11-04'
-tags:
-  - 工作流
-  - 入门指南
-featured: true
-draft: false
+{
+  "title": "把 AI 从聊天窗口，带进你的日常工作流",
+  "description": "从一个具体任务开始，建立可复用、可检查、可持续改进的 AI 工作方式。",
+  "category": "tutorial",
+  "date": "2026-11-04",
+  "tags": [
+    "工作流",
+    "入门指南"
+  ],
+  "featured": true,
+  "draft": false
+}
 ---
 ## 先选一个真实任务
 不要从寻找最强的模型开始。从你每周都在重复的任务开始：整理会议纪要、阅读资料、起草周报。优先选择结果容易检查、错误容易纠正的任务。
