@@ -1,0 +1,41 @@
+{
+  "sourceHash": "f678327281b829bb3d4aadaf8809b6de12b58a10b87f282c6cba97ac7dccfb6f",
+  "translations": {
+    "en": {
+      "title": "Let AI be your first manuscript reviewer",
+      "description": "Before rewriting, find gaps in reasoning, repetition and obstacles for the reader.",
+      "tags": [
+        "Writing",
+        "Review"
+      ],
+      "body": "## Copy this prompt\n```text\nRead the following draft as a reviewer. Do not rewrite the whole text yet.\nTarget audience: [Fill in]\nPurpose: [Fill in]\nOutput:\n1. State the main argument in one sentence.\n2. Identify the three biggest obstacles to understanding and quote the relevant sentences.\n3. List facts, numbers and citations that need verification.\n4. Provide a prioritized revision checklist.\nRequirements: Preserve the author’s voice; distinguish factual errors from style preferences.\nDraft: [Paste]\n```\n\n## Usage advice\nAddress facts and logic first, structure next, and wording last. The author remains responsible for deciding which suggestions to accept."
+    },
+    "ru": {
+      "title": "Пусть ИИ станет первым рецензентом вашего текста",
+      "description": "До переписывания найдите пробелы в аргументации, повторы и трудности для читателя.",
+      "tags": [
+        "Письмо",
+        "Рецензирование"
+      ],
+      "body": "## Скопируйте промпт\n```text\nПрочитай черновик как рецензент. Пока не переписывай весь текст.\nЦелевая аудитория: [Укажите]\nЦель статьи: [Укажите]\nРезультат:\n1. Сформулируй главный тезис одним предложением.\n2. Назови три главные помехи пониманию и процитируй соответствующие фразы.\n3. Перечисли факты, числа и цитаты для проверки.\n4. Дай список правок по приоритету.\nТребования: сохрани голос автора; отличай фактические ошибки от вкусовых предпочтений.\nЧерновик: [Вставьте]\n```\n\n## Совет\nСначала факты и логика, затем структура, в конце формулировки. Решение о принятии рекомендаций остаётся за автором."
+    },
+    "ja": {
+      "title": "AIを最初の原稿レビュアーにする",
+      "description": "書き直す前に、論理の抜け、重複、読者の理解を妨げる点を見つけます。",
+      "tags": [
+        "執筆",
+        "原稿レビュー"
+      ],
+      "body": "## プロンプトをコピー\n```text\n以下の草稿をレビュアーとして読み、まだ全文を書き直さないでください。\n対象読者：[記入]\n記事の目的：[記入]\n出力：\n1. 主張を1文で要約。\n2. 理解を最も妨げる3つの問題と該当する原文の引用。\n3. 検証が必要な事実、数字、引用。\n4. 優先順位付きの修正リスト。\n条件：著者の語り口を保ち、事実誤認と文体の好みを区別する。\n草稿：[貼り付け]\n```\n\n## 使い方のヒント\nまず事実と論理、次に構成、最後に言葉遣いを直します。提案を採用するかどうかは著者が判断します。"
+    },
+    "ko": {
+      "title": "AI를 첫 원고 검토자로 활용하기",
+      "description": "바로 다시 쓰기보다 논리의 빈틈, 중복 표현, 독자의 이해를 막는 요소부터 찾습니다.",
+      "tags": [
+        "글쓰기",
+        "원고 검토"
+      ],
+      "body": "## 프롬프트 복사\n```text\n아래 초안을 검토자 입장에서 읽고 아직 전문을 다시 쓰지 마세요.\n대상 독자: [입력]\n글의 목적: [입력]\n출력:\n1. 핵심 주장을 한 문장으로 요약.\n2. 이해를 가장 방해하는 세 문제와 해당 원문 인용.\n3. 검증해야 할 사실, 숫자, 인용.\n4. 우선순위에 따른 수정 목록.\n조건: 저자의 말투를 보존하고 사실 오류와 문체 취향을 구분하세요.\n초안: [붙여넣기]\n```\n\n## 활용 팁\n사실과 논리를 먼저, 구조를 다음으로, 표현을 마지막으로 다듬으세요. 제안의 수용 여부는 저자가 결정합니다."
+    }
+  }
+}

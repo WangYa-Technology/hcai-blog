@@ -1,0 +1,41 @@
+{
+  "sourceHash": "b90d4c32b927b1d845e184750593071a43b673d3347e3d02d9929147b326e23b",
+  "translations": {
+    "en": {
+      "title": "Bring AI beyond the chat window and into your daily workflow",
+      "description": "Start with a concrete task and build an AI workflow that is reusable, verifiable and easy to improve.",
+      "tags": [
+        "Workflow",
+        "Getting started"
+      ],
+      "body": "## Start with a real task\nInstead of searching for the strongest model, start with something you repeat every week: meeting notes, reading material or a weekly report. Prefer tasks whose results are easy to check and whose mistakes are easy to correct.\n\n## Give AI a clear brief\nProvide the input, goal, constraints and output format together. For meeting notes, distinguish decisions, unresolved issues and action items. Mark tasks without a named owner as “To be confirmed”.\n\n## A reusable task template\n```text\nTask: Turn these meeting notes into an actionable summary.\nInput: [Paste the original notes]\nRequirements: Use only facts in the notes. Mark missing information “To be confirmed”.\nOutput: Key conclusions; actions (task / owner / due date); open questions.\nAfter completing: List what I need to verify.\n```\n\n## Add verification and feedback\nCheck numbers, dates, names and action items. Include corrected examples in your next brief. Once the process is stable, turn it into a skill or an automated task.\n\n## When to automate\nAutomate once several consecutive runs meet expectations, the input format is stable and exceptions have clear handling rules. Set review points for external messages and formal publication according to your permission rules."
+    },
+    "ru": {
+      "title": "Перенесите ИИ из окна чата в повседневную работу",
+      "description": "Начните с конкретной задачи и создайте процесс, который можно повторять, проверять и совершенствовать.",
+      "tags": [
+        "Рабочий процесс",
+        "Начало работы"
+      ],
+      "body": "## Начните с реальной задачи\nНе начинайте с поиска самой мощной модели. Выберите еженедельную задачу: протокол встречи, чтение материалов или отчёт. Отдавайте предпочтение результатам, которые легко проверить, и ошибкам, которые легко исправить.\n\n## Дайте ИИ понятное задание\nУкажите входные данные, цель, ограничения и формат результата. При обработке встречи отделяйте принятые решения, нерешённые вопросы и действия. Если ответственный не назван, пишите «Требует уточнения».\n\n## Шаблон для повторного использования\n```text\nЗадача: превратить записи встречи в практическое резюме.\nВход: [Вставьте исходные записи]\nТребования: использовать только факты из записей; недостающие данные отмечать «Требует уточнения».\nРезультат: основные выводы; действия (задача / ответственный / срок); открытые вопросы.\nПосле завершения: перечислить сведения, которые мне нужно проверить.\n```\n\n## Добавьте проверку и обратную связь\nПроверяйте числа, даты, имена и действия. Включайте исправленные примеры в следующее задание. Когда процесс стабилизируется, оформите его как навык или автоматизированную задачу.\n\n## Когда стоит автоматизировать\nПосле нескольких успешных запусков, при стабильном формате входа и ясных правилах обработки исключений. Для внешних сообщений и официальных публикаций установите контрольные точки согласно вашим правилам доступа."
+    },
+    "ja": {
+      "title": "AIをチャット画面から日々のワークフローへ",
+      "description": "具体的な作業から始め、再利用・検証・改善できるAIの使い方を組み立てます。",
+      "tags": [
+        "ワークフロー",
+        "入門"
+      ],
+      "body": "## 実際の作業から始める\n最強のモデル探しではなく、議事録の整理、資料の読み込み、週報の作成など、毎週繰り返す作業から始めましょう。結果を確認しやすく、誤りを直しやすいものを優先します。\n\n## 明確な依頼を渡す\n入力、目的、制約、出力形式をまとめて伝えます。議事録なら決定事項、未確定事項、行動項目を区別し、担当者が不明な作業は「要確認」とします。\n\n## 再利用できるテンプレート\n```text\n作業：以下の議事録を実行可能な要約に整理する。\n入力：[元の記録を貼り付け]\n条件：記録内の事実だけを使う。不足情報は「要確認」とする。\n出力：主要な結論、行動項目（作業／担当者／期限）、未解決の質問。\n完了後：私が確認すべき内容を列挙する。\n```\n\n## 確認とフィードバックを加える\n数字、日付、固有名詞、行動項目を確認します。修正済みの例を次の依頼に加えます。安定したらスキルや自動化タスクにまとめましょう。\n\n## 自動化に適したタイミング\n数回続けて期待どおりの結果が得られ、入力形式が安定し、例外の対処方法が明確になった段階です。外部送信や正式公開には、権限ルールに沿った確認段階を設けます。"
+    },
+    "ko": {
+      "title": "AI를 채팅창에서 일상 업무 흐름으로 가져오기",
+      "description": "구체적인 작업부터 시작해 재사용하고 검증하며 개선할 수 있는 AI 업무 방식을 만듭니다.",
+      "tags": [
+        "워크플로",
+        "입문"
+      ],
+      "body": "## 실제 작업부터 시작하기\n가장 강력한 모델을 찾기보다 회의록 정리, 자료 읽기, 주간 보고서처럼 매주 반복하는 작업을 고르세요. 결과를 확인하고 오류를 수정하기 쉬운 작업이 좋습니다.\n\n## 명확한 작업 설명 전달하기\n입력, 목표, 제약, 출력 형식을 함께 제시하세요. 회의록에서는 결정 사항, 미확정 사항, 실행 항목을 구분합니다. 담당자가 명확하지 않으면 ‘확인 필요’로 표시합니다.\n\n## 재사용할 수 있는 템플릿\n```text\n작업: 아래 회의 기록을 실행 가능한 요약으로 정리합니다.\n입력: [원본 기록 붙여넣기]\n조건: 기록에 있는 사실만 사용하고 누락된 정보는 ‘확인 필요’로 표시합니다.\n출력: 핵심 결론, 실행 항목(작업/담당자/기한), 미해결 질문.\n완료 후: 내가 검증해야 할 내용을 나열합니다.\n```\n\n## 검증과 피드백 추가하기\n숫자, 날짜, 고유명사, 실행 항목을 확인하세요. 수정된 예시를 다음 작업 설명에 포함하세요. 안정화되면 스킬이나 자동화 작업으로 정리합니다.\n\n## 자동화하기 좋은 시점\n여러 번 연속으로 기대한 결과가 나오고, 입력 형식이 안정적이며, 예외 처리 방법이 명확할 때입니다. 외부 전송이나 공식 발행에는 권한 규칙에 따른 확인 단계를 두세요."
+    }
+  }
+}

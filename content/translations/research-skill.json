@@ -1,0 +1,41 @@
+{
+  "sourceHash": "47af0036269dc0086bf8687a2f4627b5134018b56d7f31d7fe5e345f92834900",
+  "translations": {
+    "en": {
+      "title": "A research skill that turns reading into useful conclusions",
+      "description": "Separate sources, evidence and judgment to build a reusable research workflow.",
+      "tags": [
+        "Research",
+        "Skill"
+      ],
+      "body": "## When to use it\nFor product research, technology selection and focused reading. Supply a set of sources to receive a sourced summary, comparisons and questions to verify.\n\n## Skill contents\nSave the following as a skill file supported by your AI tool, and configure its directory as that tool requires.\n\n```markdown\n# Research synthesis\nWhen the user supplies sources and asks for synthesis:\n1. Clarify the research question; ask if it is missing.\n2. Record each source’s title, author, date and link.\n3. Separate original facts, author opinions and your inferences.\n4. Present conflicting sources side by side; do not erase disagreements.\n5. Output conclusions, an evidence table, gaps and next verification steps.\n6. Never claim to have verified a source you have not read.\n```\n\n## Checklist\nCan each conclusion be traced to a source? Is outdated information dated? Is uncertainty clear? These three questions matter more than summary length."
+    },
+    "ru": {
+      "title": "Навык обработки источников: от чтения к полезным выводам",
+      "description": "Отделяйте источники, доказательства и суждения в повторяемом исследовательском процессе.",
+      "tags": [
+        "Исследование",
+        "Навык"
+      ],
+      "body": "## Когда использовать\nДля изучения продуктов, выбора технологий и тематического чтения. Передайте набор материалов и получите резюме со ссылками, сравнения и вопросы для проверки.\n\n## Содержание навыка\nСохраните текст как файл навыка в формате вашего ИИ-инструмента и настройте каталог согласно его требованиям.\n\n```markdown\n# Синтез материалов\nКогда пользователь передаёт материалы для анализа:\n1. Уточни исследовательский вопрос; если его нет, спроси.\n2. Запиши название, автора, дату и ссылку каждого источника.\n3. Отдели факты оригинала, мнения автора и свои выводы.\n4. При противоречиях представь позиции рядом, не устраняй разногласия сам.\n5. Дай выводы, таблицу доказательств, пробелы и следующие шаги проверки.\n6. Не заявляй о проверке непрочитанного источника.\n```\n\n## Проверка\nПрослеживается ли каждый вывод до источника? Датированы ли устаревшие сведения? Ясна ли неопределённость? Это важнее объёма резюме."
+    },
+    "ja": {
+      "title": "読んだ資料を使える結論に変えるスキル",
+      "description": "出典、証拠、判断を分け、繰り返し使える資料整理の流れを作ります。",
+      "tags": [
+        "資料整理",
+        "スキル"
+      ],
+      "body": "## 使用場面\n製品調査、技術選定、テーマ別の読書に適しています。複数の資料から、出典付きの要約、比較、確認すべき質問を得られます。\n\n## スキルの内容\n次の内容を利用するAIツールのスキルファイルとして保存し、ツールの指定に従って配置してください。\n\n```markdown\n# 資料整理\nユーザーが複数の資料を提示して整理を求めた場合：\n1. 調査の問いを明確にし、不明なら先に尋ねる。\n2. 各資料の題名、著者、日付、リンクを記録する。\n3. 原文の事実、著者の意見、自分の推論を分ける。\n4. 資料間で矛盾する場合は併記し、勝手に解消しない。\n5. 結論、証拠の表、不足点、次に検証すべきことを出力する。\n6. 読んでいない出典を検証済みと言わない。\n```\n\n## 確認項目\n各結論の出典をたどれますか。古い情報には時点を示していますか。不確実性は明確ですか。この3点は要約の長さより重要です。"
+    },
+    "ko": {
+      "title": "읽은 자료를 유용한 결론으로 바꾸는 정리 스킬",
+      "description": "출처, 근거, 판단을 구분해 반복해서 사용할 수 있는 자료 정리 흐름을 만듭니다.",
+      "tags": [
+        "자료 정리",
+        "스킬"
+      ],
+      "body": "## 사용 상황\n제품 조사, 기술 선택, 주제별 읽기에 적합합니다. 여러 자료를 입력하면 출처가 있는 요약, 비교, 확인할 질문을 얻습니다.\n\n## 스킬 내용\n아래 내용을 AI 도구가 지원하는 스킬 파일로 저장하고 해당 도구의 디렉터리 규칙에 맞게 배치하세요.\n\n```markdown\n# 자료 정리\n사용자가 자료를 주고 정리를 요청하면:\n1. 조사 질문을 명확히 하고 없으면 먼저 질문한다.\n2. 자료별 제목, 저자, 날짜, 출처 링크를 기록한다.\n3. 원문 사실, 저자 의견, 자신의 추론을 분리한다.\n4. 자료가 충돌하면 나란히 제시하고 임의로 해소하지 않는다.\n5. 결론, 근거 표, 부족한 점, 다음 검증 단계를 출력한다.\n6. 읽지 않은 출처를 검증했다고 주장하지 않는다.\n```\n\n## 확인 목록\n각 결론을 출처로 추적할 수 있나요? 오래된 정보에 시점을 표시했나요? 불확실성이 명확한가요? 이 세 가지가 요약 길이보다 중요합니다."
+    }
+  }
+}

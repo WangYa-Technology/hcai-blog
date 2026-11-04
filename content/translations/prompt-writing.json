@@ -1,0 +1,41 @@
+{
+  "sourceHash": "f8cee6e4c5659d9933a12cb1c8ad6301f1bc374c2fa1c2362caedbf7aee54662",
+  "translations": {
+    "en": {
+      "title": "Write better prompts by defining what “done” means",
+      "description": "A prompt framework for writing, research and everyday work. Copy it and adapt it to your needs.",
+      "tags": [
+        "Prompts",
+        "Productivity"
+      ],
+      "body": "## A ready-to-use template\n```text\nHelp me complete: [Specific task]\nContext: [Audience, scenario, known information]\nSource material: [Original material]\nCompletion criteria:\n- [Required coverage]\n- [Constraints to follow]\n- Mark uncertainty explicitly; do not invent facts.\nOutput format: [Table, checklist or article]\nIf critical information affecting the conclusion is missing, point it out first.\n```\n\n## Why define completion criteria?\n“Make it better” is hard to evaluate. “Write three steps for a first-time user, each with an action and an expected result” gives you something you can verify directly.\n\n## Iterate in small steps\nCheck structure and facts first, then improve wording. Do not change the goal, audience and style all at once."
+    },
+    "ru": {
+      "title": "Хороший промпт начинается с критерия готовности",
+      "description": "Шаблон для письма, исследования и повседневных задач: скопируйте и адаптируйте.",
+      "tags": [
+        "Промпты",
+        "Эффективность"
+      ],
+      "body": "## Готовый шаблон\n```text\nПомоги выполнить: [Конкретная задача]\nКонтекст: [Аудитория, ситуация, известные сведения]\nИсходные материалы: [Оригинальные данные]\nКритерии готовности:\n- [Что обязательно охватить]\n- [Ограничения]\n- Явно отмечай неопределённость, не выдумывай факты.\nФормат: [Таблица, список или статья]\nЕсли не хватает важных для вывода данных, сначала укажи это.\n```\n\n## Зачем задавать критерии?\n«Сделай лучше» трудно проверить. «Три шага для новичка, в каждом действие и ожидаемый результат» даёт проверяемый стандарт.\n\n## Небольшие итерации\nСначала проверьте структуру и факты, затем формулировки. Не меняйте цель, аудиторию и стиль одновременно."
+    },
+    "ja": {
+      "title": "良いプロンプトは「完了の基準」を伝えることから",
+      "description": "執筆、調査、日々の作業に使える枠組みです。コピーして調整できます。",
+      "tags": [
+        "プロンプト",
+        "効率化"
+      ],
+      "body": "## そのまま使えるテンプレート\n```text\n手伝ってほしい作業：[具体的な作業]\n背景：[対象者、場面、既知の情報]\n入力資料：[元の資料]\n完了の基準：\n- [必須の内容]\n- [守るべき制約]\n- 不確実な情報を明示し、事実を作らない。\n出力形式：[表、リスト、記事]\n結論に影響する重要情報が不足している場合は、先に指摘する。\n```\n\n## 完了の基準が必要な理由\n「もっと良くして」では完成を判断できません。「初めて使う人向けに3手順で、各手順に操作と期待される結果を含める」なら直接確認できます。\n\n## 小さく改善する\nまず構成と事実を確認し、次に表現を整えます。目的、対象者、文体を一度に変更しないようにしましょう。"
+    },
+    "ko": {
+      "title": "좋은 프롬프트는 ‘완료 기준’을 명확히 하는 데서 시작합니다",
+      "description": "글쓰기, 조사, 일상 업무에 사용할 수 있는 프롬프트 틀입니다. 복사해 조정하세요.",
+      "tags": [
+        "프롬프트",
+        "효율"
+      ],
+      "body": "## 바로 사용할 수 있는 템플릿\n```text\n도와줄 작업: [구체적인 작업]\n배경: [대상, 상황, 알고 있는 정보]\n입력 자료: [원본 자료]\n완료 기준:\n- [필수 내용]\n- [지켜야 할 제약]\n- 불확실한 정보는 표시하고 사실을 만들지 마세요.\n출력 형식: [표, 목록, 글]\n결론에 영향을 주는 핵심 정보가 부족하다면 먼저 알려주세요.\n```\n\n## 완료 기준이 필요한 이유\n‘더 좋게 써줘’는 완료 여부를 판단하기 어렵습니다. ‘처음 사용하는 독자를 위한 세 단계, 각 단계에 조작과 예상 결과 포함’은 바로 검증할 수 있습니다.\n\n## 작게 반복하기\n먼저 구조와 사실을 확인하고 다음에 표현을 다듬으세요. 목표, 독자, 문체를 한꺼번에 바꾸지 마세요."
+    }
+  }
+}

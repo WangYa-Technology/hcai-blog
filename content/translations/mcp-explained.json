@@ -1,0 +1,41 @@
+{
+  "sourceHash": "40834dfddaa79688929b59557d2625acf14e3d2ab18ecf1a3d86976fe6807b9d",
+  "translations": {
+    "en": {
+      "title": "MCP: a shared language connecting AI, tools and data",
+      "description": "Understand Model Context Protocol and how it connects AI assistants, content and external tools.",
+      "tags": [
+        "MCP",
+        "Open protocol"
+      ],
+      "body": "## What is it?\nModel Context Protocol (MCP) is an open protocol connecting AI applications with external data and tools. This article provides protocol background, not breaking news.\n\n## A blog update as an example\nA blog MCP server can expose tools to list articles, read content, save articles and build the site. An AI client discovers these tools through the protocol and calls them within its permissions.\n\n## Working with a static website\nGitHub Pages hosts generated HTML, CSS and JavaScript. The MCP server runs locally or on a separate server and writes content into the repository. GitHub Actions builds and publishes the site.\n\n## Read the primary sources\nConsult the official documentation for current capabilities and protocol version changes."
+    },
+    "ru": {
+      "title": "MCP: общий язык для ИИ, инструментов и данных",
+      "description": "Что такое Model Context Protocol и как он связывает ИИ-ассистентов, контент и внешние инструменты.",
+      "tags": [
+        "MCP",
+        "Открытый протокол"
+      ],
+      "body": "## Что это такое\nModel Context Protocol (MCP) — открытый протокол для подключения ИИ-приложений к внешним данным и инструментам. Это справочный материал о протоколе, а не оперативная новость.\n\n## Обновление блога как пример\nMCP-сервер блога может предоставлять инструменты для списка статей, чтения, сохранения и сборки сайта. ИИ-клиент обнаруживает их через протокол и вызывает в пределах своих разрешений.\n\n## Работа со статическим сайтом\nGitHub Pages размещает готовые HTML, CSS и JavaScript. MCP-сервер работает локально или отдельно и записывает контент в репозиторий. GitHub Actions собирает и публикует сайт.\n\n## Читайте первоисточники\nСведения о возможностях и изменениях версий уточняйте в официальной документации."
+    },
+    "ja": {
+      "title": "MCP：AIとツール、データをつなぐ共通言語",
+      "description": "Model Context ProtocolがAIアシスタント、コンテンツ、外部ツールをつなぐ仕組みを紹介します。",
+      "tags": [
+        "MCP",
+        "オープンプロトコル"
+      ],
+      "body": "## MCPとは\nModel Context Protocol（MCP）は、AIアプリケーションを外部データやツールに接続するオープンプロトコルです。この記事は背景資料の整理であり、速報ではありません。\n\n## ブログ更新で考える\nブログのMCPサーバーは、記事一覧、内容の読み取り、保存、サイトのビルドなどのツールを公開できます。AIクライアントはプロトコルを通じてツールを見つけ、権限の範囲内で呼び出します。\n\n## 静的サイトとの連携\nGitHub Pagesは生成されたHTML、CSS、JavaScriptを配信します。MCPサーバーはローカルまたは別のサーバーで動き、リポジトリに内容を書き込みます。GitHub Actionsがビルドと公開を担当します。\n\n## 原典を読む\n機能やバージョンの変更は公式ドキュメントで確認してください。"
+    },
+    "ko": {
+      "title": "MCP: AI와 도구, 데이터를 연결하는 공통 언어",
+      "description": "Model Context Protocol이 AI 도우미, 콘텐츠, 외부 도구를 연결하는 방법을 알아봅니다.",
+      "tags": [
+        "MCP",
+        "개방형 프로토콜"
+      ],
+      "body": "## 무엇인가요\nModel Context Protocol(MCP)은 AI 애플리케이션을 외부 데이터와 도구에 연결하는 개방형 프로토콜입니다. 이 글은 프로토콜 배경 자료이며 실시간 뉴스가 아닙니다.\n\n## 블로그 업데이트로 이해하기\n블로그 MCP 서버는 글 목록, 내용 읽기, 저장, 사이트 빌드 도구를 제공할 수 있습니다. AI 클라이언트는 프로토콜로 도구를 발견하고 권한 범위 안에서 호출합니다.\n\n## 정적 웹사이트와의 연동\nGitHub Pages는 생성된 HTML, CSS, JavaScript를 제공합니다. MCP 서버는 로컬이나 별도 서버에서 실행되어 저장소에 콘텐츠를 씁니다. GitHub Actions가 빌드와 배포를 맡습니다.\n\n## 원본 자료 읽기\n구체적인 기능과 버전 변경은 공식 문서를 확인하세요."
+    }
+  }
+}

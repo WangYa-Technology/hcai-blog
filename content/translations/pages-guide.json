@@ -1,0 +1,41 @@
+{
+  "sourceHash": "13075d189b8565832e97424acf0c4a312918e8dc87219b82939750a75c2a823a",
+  "translations": {
+    "en": {
+      "title": "Publish your first AI note with GitHub Pages",
+      "description": "Understand this blog’s content structure and publishing workflow, from Markdown to a public page.",
+      "tags": [
+        "GitHub Pages",
+        "Markdown"
+      ],
+      "body": "## Where content lives\nArticles live in content/posts. Each contains YAML metadata and a Markdown body. Use a text editor or this project’s MCP tools to maintain them.\n\n## Preview locally\n```sh\nnpm install\nnpm run dev\n```\n\nRebuild after editing articles. Drafts do not appear publicly.\n\n## Publish to GitHub Pages\nPush the project to the repository’s main branch. In Settings → Pages, select GitHub Actions. This project includes a build and deployment workflow.\n\n## Article links\nArticles use static HTML paths and support direct visits and refreshes. Relative asset paths support repository subpath deployments."
+    },
+    "ru": {
+      "title": "Опубликуйте первую заметку об ИИ через GitHub Pages",
+      "description": "От Markdown до открытой страницы: структура контента и публикация этого блога.",
+      "tags": [
+        "GitHub Pages",
+        "Markdown"
+      ],
+      "body": "## Где хранится контент\nСтатьи находятся в content/posts. Каждая содержит метаданные YAML и текст Markdown. Редактируйте их текстовым редактором или MCP-инструментами проекта.\n\n## Локальный просмотр\n```sh\nnpm install\nnpm run dev\n```\n\nПосле изменений пересоберите сайт. Черновики не публикуются.\n\n## Публикация в GitHub Pages\nОтправьте проект в ветку main. В Settings → Pages выберите GitHub Actions. Проект содержит процесс сборки и публикации.\n\n## Ссылки на статьи\nСтатические HTML-пути поддерживают прямой вход и обновление страницы. Относительные пути ресурсов подходят для размещения в подпути репозитория."
+    },
+    "ja": {
+      "title": "GitHub Pagesで最初のAIノートを公開する",
+      "description": "Markdownから公開ページまで、このブログの構成と公開方法を理解しましょう。",
+      "tags": [
+        "GitHub Pages",
+        "Markdown"
+      ],
+      "body": "## コンテンツの場所\n記事はcontent/postsに保存します。YAMLメタデータとMarkdown本文で構成され、テキストエディターや本プロジェクトのMCPツールで編集できます。\n\n## ローカルプレビュー\n```sh\nnpm install\nnpm run dev\n```\n\n記事の変更後は再ビルドします。下書きは公開ページに表示されません。\n\n## GitHub Pagesへ公開\nmainブランチにプッシュし、Settings → PagesでGitHub Actionsを選びます。本プロジェクトにはビルドと公開のワークフローが含まれています。\n\n## 記事のリンク\n記事は静的HTMLのパスを使い、直接アクセスや再読み込みが可能です。リソースは相対パスで、リポジトリのサブパスにも対応します。"
+    },
+    "ko": {
+      "title": "GitHub Pages로 첫 AI 노트 발행하기",
+      "description": "Markdown에서 공개 페이지까지, 이 블로그의 콘텐츠 구조와 발행 방식을 알아봅니다.",
+      "tags": [
+        "GitHub Pages",
+        "Markdown"
+      ],
+      "body": "## 콘텐츠 저장 위치\n모든 글은 content/posts에 저장됩니다. 각 글은 YAML 메타데이터와 Markdown 본문으로 구성됩니다. 텍스트 편집기나 프로젝트의 MCP 도구로 관리할 수 있습니다.\n\n## 로컬 미리보기\n```sh\nnpm install\nnpm run dev\n```\n\n글을 수정한 뒤 다시 빌드하세요. 초안은 공개 페이지에 표시되지 않습니다.\n\n## GitHub Pages에 배포\n프로젝트를 main 브랜치에 푸시하고 Settings → Pages에서 GitHub Actions를 선택하세요. 빌드와 배포 워크플로가 포함되어 있습니다.\n\n## 글 링크\n정적 HTML 경로를 사용하므로 직접 접속하거나 새로고침할 수 있습니다. 리소스는 상대 경로를 사용해 저장소 하위 경로 배포를 지원합니다."
+    }
+  }
+}
